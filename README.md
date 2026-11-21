@@ -7,4 +7,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/suraj-sasmal-buid/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0268-missing-number](https://github.com/suraj-sasmal-buid/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/suraj-sasmal-buid/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/suraj-sasmal-buid/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/suraj-sasmal-buid/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/suraj-sasmal-buid/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/suraj-sasmal-buid/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
