@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/suraj-sasmal-buid/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/suraj-sasmal-buid/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/suraj-sasmal-buid/Leetcode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
